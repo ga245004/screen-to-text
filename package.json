@@ -1,0 +1,11 @@
+{
+  "name": "screen-to-text",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gaurav Maheshwari <gauravmaheshwari57@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "url": "https://github.com/ga245004/screen-to-text.git"
+  }
+}
